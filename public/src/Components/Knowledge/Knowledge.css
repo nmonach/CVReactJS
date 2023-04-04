@@ -1,0 +1,9 @@
+.progressKnowledge{
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: aliceblue;
+    border-radius: .5rem;
+    padding: 10px;
+    opacity: 90%;
+}
