@@ -4,7 +4,7 @@ const NavBar = () => {
     <nav className="navbar navbar-expand-lg bg-light">
         <div className="container-fluid">
             <a className="navbar-brand" href="Curriculum Nicolas Monach 19-03-2023.pdf" target="_blank">
-                <img id="photoCV" src="photoCV.jpg" alt="Logo" width="90" height="90" className="d-inline-block align-text-middle"/>
+                <img id="photoCV" src="photoCV.jpg" alt="Logo" width="80" height="80" className="d-inline-block align-text-middle"/>
                 <> Nicolas Monach</>
             </a>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,11 +22,11 @@ const NavBar = () => {
                         <br/>About Me</a>
                     </li>
                     <hr />
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                         <a className="nav-link" href="/knowledge.html"><img src="knowledge.png" width={20} alt="knowledge" />
                         <br/>Knowledge</a>
                     </li>
-                    <hr />
+                    <hr /> */}
                     <li className="nav-item">
                         <a className="nav-link" href="/experience.html"><img src="experience.png" width={20} alt="experience" />
                         <br/>Experience</a>

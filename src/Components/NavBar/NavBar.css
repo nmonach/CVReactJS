@@ -6,3 +6,7 @@ hr{
 nav{
     border-radius: .5rem;
 }
+
+button.navbar-toggler{
+    padding: 4px;
+}

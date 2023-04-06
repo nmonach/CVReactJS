@@ -11,7 +11,7 @@ const AboutMe = () => {
       <br/>
       Best regards!</p>
       <a href="/index.html"><button id="btn-back" className="btn btn-dark">Back</button></a>
-      <a href="/knowledge.html"><button id="btn-next" className="btn btn-success">Next</button></a>
+      <a href="/experience.html"><button id="btn-next" className="btn btn-success">Next</button></a>
     </div>
   )
 }

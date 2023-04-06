@@ -45,3 +45,8 @@
   width: 100px;
   margin: 5px;
 }
+
+body {
+  background-image: url(../public/background.jpeg);
+  background-size: cover;
+}

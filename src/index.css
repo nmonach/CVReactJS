@@ -29,7 +29,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-image: url(./background.jpeg);
+  background-image: url(../public/background.jpeg);
   background-size: cover;
 }
 
@@ -75,7 +75,7 @@ button:focus-visible {
 }
 
 #name-cv{
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .container-fluid{

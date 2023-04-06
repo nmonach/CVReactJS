@@ -52,7 +52,7 @@ const Experience = () => {
           </li>
         </ul>
       </div>
-      <a href="/knowledge.html"><button id="btn-back" className="btn btn-dark">Back</button></a>
+      <a href="/about-me.html"><button id="btn-back" className="btn btn-dark">Back</button></a>
       <a href="/formation.html"><button id="btn-next" className="btn btn-success">Next</button></a>
     </div>
   )
